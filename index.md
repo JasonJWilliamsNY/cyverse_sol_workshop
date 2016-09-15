@@ -4,6 +4,8 @@
 
 ## Welcome to CyVerse!
 **2016 Solenacea Conference**<br>
+###Adobe Connect Information:
+**Link:** [https://cshl.adobeconnect.com/getstarted](https://cshl.adobeconnect.com/getstarted)<br>
 **Presenter:** 
 - Jason Williams: [williams@cshl.edu](mailto:williams@cshl.edu) / Twitter: [@JasonWilliamsNY](https://twitter.com/JasonWilliamsNY)
 
