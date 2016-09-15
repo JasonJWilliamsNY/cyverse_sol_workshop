@@ -28,7 +28,7 @@ In this workshop we will cover brief tutorials and documentation that will get y
 * [Importing data into Atmosphere](./05_cyverse_importing_data_into_atmosphere_instances.md)
 * [Cloud computing extras](./06_cyverse_cloud_computing_extras.md)
 * [Image analysis with BISQUE](./07_cyverse_bisque.md)
-* [Understanding CyVerse help resources and policies](./10_cyverse_help_and_policies.md)
+* [Understanding CyVerse help resources and policies](./08_cyverse_help_and_policies.md)
 
 ## Resource Downloads
 
