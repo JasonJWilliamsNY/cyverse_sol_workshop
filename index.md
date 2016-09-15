@@ -34,7 +34,8 @@ In this workshop we will cover brief tutorials and documentation that will get y
 
 |Topic|Resource|
 |-----|--------|
-|Genomics Workflows|[Brochure](./ppts_pdfs/genome_workflows.pdf)|
+|Workshop Slides|[slides](./ppts_pdfs/workshop_intro.pdf)
+|Genomics Workflows|[brochure](./ppts_pdfs/genome_workflows.pdf)|
 
 ### Utilities/software
 - Cyberduck Download Utility - [Link](https://cyberduck.io/)
