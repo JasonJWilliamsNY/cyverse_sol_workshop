@@ -4,7 +4,7 @@
 
 >**Tip:** To use Atmosphere, you must have an email address from an academic/governmental institution and request access to Atmosphere through the user portal.  To request access, login to user.iplantcollaborative.org and check to see if Atmosphere is listed under ‘My Services.’ If it is not, scroll down and click the “Request Access” button next to Atmosphere to complete a request form. ### Launching an Atmosphere instance
 
-1.	Login to Atmosphere 2.	Click **Launch New Instance** either on the navigation panel (left) or on the home screen.<br><img src="https://jacksonlab-workshop-2016.readthedocs.io/en/latest/img/atmosphere_1.jpg", style="width:150px;height:180px;">   3.	In the search window, search and select the image you wish to use ( **Note:** some images support a GUI Desktop and some are only accessible through the shell – check the description and/or tags)<br><img src="https://jacksonlab-workshop-2016.readthedocs.io/en/latest/img/atmosphere_2.jpg", style="width:450px;height:150px;"> 4.	Click **Launch**; during the launch wizard you may name your instance, select the cloud to launch on, the size of the instance, and a project to associate this instance with. If you do not have an existing project, you must create one during this launch. Follow the launch wizard through to the end and click ‘**Launch Instance**’. Your instance should be ready in 10-20 minutes. <br><img src="https://jacksonlab-workshop-2016.readthedocs.io/en/latest/img/atmosphere_3.jpg", style="width:300px;height:320px;"> 
+1.	Login to [Atmosphere](https://atmo.cyverse.org/)2.	Click **Launch New Instance** either on the navigation panel (left) or on the home screen.<br><img src="https://jacksonlab-workshop-2016.readthedocs.io/en/latest/img/atmosphere_1.jpg", style="width:150px;height:180px;">   3.	In the search window, search and select the image you wish to use ( **Note:** some images support a GUI Desktop and some are only accessible through the shell – check the description and/or tags)<br><img src="https://jacksonlab-workshop-2016.readthedocs.io/en/latest/img/atmosphere_2.jpg", style="width:450px;height:150px;"> 4.	Click **Launch**; during the launch wizard you may name your instance, select the cloud to launch on, the size of the instance, and a project to associate this instance with. If you do not have an existing project, you must create one during this launch. Follow the launch wizard through to the end and click ‘**Launch Instance**’. Your instance should be ready in 10-20 minutes. <br><img src="https://jacksonlab-workshop-2016.readthedocs.io/en/latest/img/atmosphere_3.jpg", style="width:300px;height:320px;"> 
 
 ### Connecting to Atmosphere instance via SSH
 
@@ -26,7 +26,7 @@ Some Atmosphere images also are configures with a desktop interface. This can be
 
 When you are finished with your instance, you must terminate. Follow the following steps. 
 
-1. If necessary, sign into Atmosphere: [http://atmo.iplantcollaborative.org/](http://atmo.iplantcollaborative.org/)
+1. If necessary, sign into Atmosphere: [https://atmo.cyverse.org/](https://atmo.cyverse.org/)
 2. Locate your instance (e.g. select 'Projects' and then select the project that contains the instance you will terminate.)
 3. Click on the instance name to get to the 'Actions' menu. You may then select the 'Delete' button to terminate the instance.  
 
