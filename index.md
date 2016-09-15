@@ -3,9 +3,8 @@
 ![](img/cyverse_rgb.jpg) 
 
 ## Welcome to CyVerse!
-**2016 Allied Genetics Conference**<br>
+**2016 Solenacea Conference**<br>
 **Presenter:** 
-- Joslynn Lee: [jolee@cshl.edu](mailto:jolee@cshl.edu)
 - Jason Williams: [williams@cshl.edu](mailto:williams@cshl.edu) / Twitter: [@JasonWilliamsNY](https://twitter.com/JasonWilliamsNY)
 
 **CyVerse Vision:** Transforming science through data-driven discovery.<br>
@@ -27,15 +26,12 @@ In this workshop we will cover brief tutorials and documentation that will get y
 * [Importing data into Atmosphere](./05_cyverse_importing_data_into_atmosphere_instances.md)
 * [Cloud computing extras](./06_cyverse_cloud_computing_extras.md)
 * [Image analysis with BISQUE](./07_cyverse_bisque.md)
-* [Intro to DNA Subway](./08_cyverse_intro_to_DNA_Subway.md)
-* [DNA Subway Blue Line - DNA Barcoding](./09_cyverse_Blue_Line-Barcoding.md)
 * [Understanding CyVerse help resources and policies](./10_cyverse_help_and_policies.md)
 
 ## Resource Downloads
 
 |Topic|Resource|
 |-----|--------|
-|DNA Barcoding Protocol|[Packet](http://www.dnabarcoding101.org/files/using-dna-barcodes.pdf)|
 |Genomics Workflows|[Brochure](./ppts_pdfs/genome_workflows.pdf)|
 
 ### Utilities/software
